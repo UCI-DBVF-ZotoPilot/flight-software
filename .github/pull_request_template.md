@@ -1,10 +1,10 @@
-## What changed
+## What Changed
 <!-- One or two sentences -->
 
-## Why
-Closes #<issue-number>
+## Why I Changed It
+<!-- One or two sentences. If there's an issue, add: Closes #(number) -->
 
-## How I tested it
+## How I Tested It
 - [ ] Ran against SITL
 - [ ] Ran in AirSim
 - [ ] Bench test, props off (if hardware)
