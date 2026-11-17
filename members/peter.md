@@ -1,4 +1,4 @@
-Name: Peter Lin
+# Peter Lin
 
-Role: Embedded
-Things I want to work on this year: Drone stuffs
+- **Role:** Embedded
+- **Want to work on:** Cube Orange calibrations and tests
